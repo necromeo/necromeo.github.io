@@ -1,0 +1,32 @@
+subject: Experiences
+listing-order: 1
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: <img src="/assets/img/gravy.jpeg" width="48" /> Gr4vy. Inc
+    role: Software Engineer
+    description:
+      - Backend Development
+    date: Aug. 2024 - Ongoing
+  - title: <img src="/assets/img/adcap_securities_logo.jpeg" width="48" /> Adcap Grupo Financiero
+    role: Software Engineer
+    description:
+      - Back End development for API Broker. Argentina's first B2B brokerage API
+      - Development of microservices with FastAPI.
+      - Use of AWS services, mostly Aurora, DynamoDB, and S3.
+      - Kafka for event streaming.
+      - REST API and SOAP integrations with ByMA.
+    date: Oct. 2022 - Aug. 2024
+  - title: <img src="/assets/img/bairesdev_logo.jpeg" width="48" /> BairesDev
+    role: Software Engineer
+    description:
+      - Designed the dynamic website using React for data visualization
+      - Integrated '*Yolo*' to boost the accuracy of the object detection
+    date: Aug. 2021 - Oct. 2022
+  - title: <img src="/assets/img/argentina.png" width="48" />Contenidos públicos S.E.
+    role: Metrics analyst and video processing
+    description:
+      - Media ingestion, processing and uploading pipeline.
+      - Developed pipeline for SmartTV manifest creation.
+      - Developed processing, uploading and appending AA tracks to existing pool of media.
+      - Metrics reports and analysis of user base.
+    date: Jun. 2017 - Aug. 2021

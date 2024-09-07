@@ -1,0 +1,31 @@
+title: Ivan Andre Scheel's Resume
+profile_img: /assets/img/me.jpeg
+icon_img: /assets/img/icon.webp
+
+name: "Ivan Andre Scheel"
+job: "Software Engineer"
+
+phone_number: +54 11 2324-3262
+address: Buenos Aires, Argentina
+email: andrescheel@protonmail.com
+linkedin_username: ivan-andre-scheel-822718b6
+github_username: necromeo
+# instagram_username: instagram
+# twitter_username: twitter
+# facebook_username: facebook
+# youtube_username: youtube
+# blog_url: homepage-url
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl:
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

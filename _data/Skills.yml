@@ -1,0 +1,46 @@
+subject: Skills
+listing-order: 2
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Programming Languages
+    description: "
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg)
+    "
+  - title: Frameworks
+    description: "
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original-wordmark.svg)
+    "
+  - title: Databases
+    description: "
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
+      "
+  - title: Tools
+    description: "
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg)
+      ![devicon](https://helix-editor.com/logo.svg)
+      ![devicon](https://upload.wikimedia.org/wikipedia/commons/5/5f/FFmpeg_Logo_new.svg)
+      ![devicon](https://raw.githubusercontent.com/FiloSottile/age/main/logo/logo.svg)
+      ![devicon](https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg)
+    "
+  - title: Systems
+    description: "
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg)
+    "
+  - title: Cloud
+    description: "
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+      ![devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg)
+    "
